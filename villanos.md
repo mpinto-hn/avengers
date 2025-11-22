@@ -1,4 +1,4 @@
 # Villanos
 * Dr. Doom
 * Red Skull
-* Dr. Pinto
+* El. capitan America
